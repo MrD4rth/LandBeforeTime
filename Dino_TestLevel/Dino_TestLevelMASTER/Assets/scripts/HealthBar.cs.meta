@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9f93d287b9c2ac744978ba79e6c7f879
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frame: {fileID: 2800000, guid: e1401f3869b9e77478bd645151157074, type: 3}
+  - healthBar: {fileID: 2800000, guid: 270a6ad7f3001f148a31694e989c1a49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
